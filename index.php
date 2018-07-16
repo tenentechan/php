@@ -1,4 +1,6 @@
 <? php
 echo "alterando arquivo";
-echo "mudando"
+
+echo "mudando o conflito";
+
 ?>

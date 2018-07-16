@@ -1,3 +1,4 @@
 <? php
-acho "alterando arquivo";
+echo "alterando arquivo";
+echo "conflito";
 ?>
